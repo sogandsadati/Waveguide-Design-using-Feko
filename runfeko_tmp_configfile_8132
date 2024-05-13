@@ -1,0 +1,1 @@
+ -n 2 -localonly -localhost DESKTOP-9N4SAAI -envall -mapall "D:\Altair\feko\bin\feko_mkl.csv.impi.exe" "rec_waveguide_TE20_with_new_freq" "--run-from-gui"
